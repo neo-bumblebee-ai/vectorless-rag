@@ -1,0 +1,195 @@
+Coffee Machine Operations & Maintenance Guide
+==============================================
+
+This guide covers daily operation, cleaning, descaling, and troubleshooting
+for commercial and home espresso machines. Use this file as a working demo
+for the Vectorless RAG pipeline — replace it with your own documents.
+
+
+DAILY CLEANING STEPS
+--------------------
+
+1. Portafilter and basket
+   - Remove the portafilter after each shot.
+   - Knock the spent puck into the knock box.
+   - Rinse the portafilter and basket under hot running water.
+   - Wipe dry with a clean cloth before re-inserting.
+
+2. Group head
+   - Perform a blind backflush using water only after every 10–15 shots.
+   - At the end of the day, run a backflush with espresso machine cleaner
+     (e.g. Cafiza) for 30 seconds, then rinse with three clean water cycles.
+   - Use a group head brush to scrub the shower screen and dispersion plate.
+
+3. Steam wand
+   - Purge the steam wand for 2–3 seconds before steaming milk.
+   - Immediately after steaming, wipe the wand with a damp cloth and purge again.
+   - Soak the wand tip in a small container of hot water if milk has dried on it.
+
+4. Drip tray
+   - Empty and rinse the drip tray at the end of each day.
+   - Wash with warm soapy water and dry completely before replacing.
+
+5. Exterior surfaces
+   - Wipe down the machine body, group head collar, and portafilter handle
+     with a damp microfibre cloth.
+   - Do not use abrasive cleaners on stainless steel surfaces.
+
+
+WEEKLY MAINTENANCE
+------------------
+
+1. Deep backflush
+   - Run a full backflush cycle with Cafiza or equivalent cleaner.
+   - Follow with at least 5 clean water backflush cycles to remove all residue.
+
+2. Shower screen removal
+   - Remove the shower screen using a flathead screwdriver.
+   - Soak in a solution of hot water and espresso cleaner for 20 minutes.
+   - Scrub with a stiff brush, rinse thoroughly, and reattach.
+
+3. Grinder cleaning
+   - Use a grinder cleaning tablet (e.g. Grindz) once per week.
+   - Follow with 2–3 small doses of coffee to purge any residual cleaner.
+   - Wipe the hopper and grind chute with a dry cloth.
+
+4. Water tank
+   - If your machine uses a removable water tank, empty, rinse, and wipe it
+     weekly to prevent mineral build-up and bacterial growth.
+
+5. Portafilter basket inspection
+   - Hold the basket up to the light to check for clogged holes.
+   - Soak in hot water with cleaner if any holes are blocked.
+
+
+DESCALING PROCEDURE
+-------------------
+
+Descale every 2–3 months, or when the machine's descale indicator lights up.
+
+Required materials:
+- Descaling solution (use the manufacturer's recommended brand)
+- Large container or jug (minimum 1 litre capacity)
+- Fresh water
+
+Steps:
+1. Empty the water tank completely.
+2. Prepare the descaling solution according to the product instructions
+   (typically 1 sachet or 30 ml of liquid per litre of water).
+3. Pour the solution into the water tank.
+4. Place the jug under the steam wand and group head.
+5. Start the descale programme (refer to your machine's manual for the
+   exact button sequence — usually hold the steam button for 5 seconds).
+6. Allow the machine to run through the full descale cycle. This typically
+   takes 20–30 minutes.
+7. When the cycle completes, empty the jug.
+8. Refill the tank with fresh water and run a full rinse cycle at least twice.
+9. The machine is ready to use once the rinse cycles are complete.
+
+Warning: Never use vinegar as a descaler in espresso machines — it can
+damage internal seals and leave an odour that affects coffee flavour.
+
+
+WATER TEMPERATURE SETTINGS
+---------------------------
+
+Optimal extraction temperature for espresso: 90–96°C (194–205°F)
+
+- Light roasts: 94–96°C — higher temperature extracts more sweetness
+  from lightly developed beans.
+- Medium roasts: 92–94°C — balanced extraction.
+- Dark roasts: 90–92°C — lower temperature prevents harsh bitterness.
+
+To adjust temperature on most prosumer machines:
+1. Enter the settings menu (typically by holding the programme button).
+2. Navigate to "Brew Temperature" or "PID Setting".
+3. Adjust in 1°C increments and save.
+4. Allow the machine to reach temperature (2–3 minutes) before pulling
+   a test shot.
+
+
+GRIND SETTINGS
+--------------
+
+The grind is the most important variable in espresso. A correct grind
+should produce a 30 ml double shot in 25–30 seconds.
+
+Too coarse (fast shot, under 20 seconds):
+- Adjust grinder one or two steps finer.
+- Symptoms: thin, pale crema; watery flavour; sour taste.
+
+Too fine (slow shot, over 35 seconds):
+- Adjust grinder one or two steps coarser.
+- Symptoms: thick, dark crema; bitter or astringent taste; choking.
+
+Rule of thumb: change the grind setting by one step at a time. Always
+pull a test shot after each adjustment before evaluating.
+
+Grind freshness:
+- Grind immediately before brewing for best results.
+- Pre-ground coffee goes stale within 15–30 minutes once exposed to air.
+
+
+TROUBLESHOOTING COMMON ISSUES
+------------------------------
+
+Problem: Machine is not producing steam
+- Check the water level — refill if low.
+- Ensure the steam boiler has had enough time to heat (3–5 minutes after
+  switching on).
+- The steam tip may be clogged — remove it, soak in hot water, and clear
+  with a pin.
+
+Problem: Coffee tastes burnt or bitter
+- Temperature may be too high — reduce by 2°C.
+- Check if the group head gasket is worn — a worn gasket causes channelling
+  which leads to over-extraction on one side.
+- Ensure backflushing is done regularly to remove coffee oil build-up.
+
+Problem: Machine is leaking from the group head
+- The group head gasket likely needs replacement.
+- Gaskets typically last 12–18 months under daily use.
+- Replacement is a 10-minute job: remove the shower screen, pry out the
+  old gasket with a flathead screwdriver, press in the new one.
+
+Problem: Low pressure / weak shots
+- Check that the pump pressure is set to 9 bar (use a pressure gauge
+  portafilter to verify).
+- The pump may need servicing if it is more than 3–4 years old.
+- Ensure the grind is not too coarse.
+
+Problem: Machine is taking a long time to heat up
+- Descale if not done recently — scale on the boiler reduces heating efficiency.
+- If the machine is cold, allow 10–15 minutes for full temperature stability.
+
+Problem: Grinder is making grinding noise but not producing grounds
+- The burrs may be jammed with a hard object (stone in the coffee).
+- Turn off the grinder, remove the hopper, and clear any obstruction.
+- Never put your fingers near the burrs.
+
+
+MILK STEAMING GUIDE
+-------------------
+
+For a smooth microfoam (flat white / latte):
+1. Fill the jug to just below the spout.
+2. Purge the steam wand for 2 seconds.
+3. Insert the tip just below the milk surface at a slight angle.
+4. Open the steam valve fully.
+5. For the first 2–3 seconds, keep the tip near the surface to introduce
+   air (the "stretching" phase — you should hear a slight paper-tearing sound).
+6. Lower the jug so the tip is submerged and spin the milk in a whirlpool
+   motion (the "texturing" phase).
+7. Stop steaming when the jug becomes too hot to hold (approximately 65°C).
+8. Tap the jug on the bench and swirl to integrate any large bubbles.
+9. Pour immediately.
+
+For a dry, stiff foam (cappuccino):
+- Spend more time in the stretching phase — keep the tip at the surface
+  for 5–8 seconds to incorporate more air.
+- Target temperature is the same: 65°C.
+
+Common milk steaming mistakes:
+- Starting with warm milk: always use cold milk straight from the fridge.
+- Steaming too slowly: use full steam pressure for best texture.
+- Overheating past 70°C: milk proteins denature and the sweetness is lost.

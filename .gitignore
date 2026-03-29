@@ -15,9 +15,10 @@ uv.lock
 # BM25 index (re-generated on first run — do not commit)
 data/bm25_index/
 
-# Your documents (keep private)
+# Your documents (keep private — but keep the sample demo file)
 data/pdf_files/*.pdf
 data/text_files/*.txt
+!data/text_files/sample_coffee_machine.txt
 
 # Jupyter
 .ipynb_checkpoints/

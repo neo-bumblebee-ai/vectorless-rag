@@ -1,0 +1,16 @@
+[project]
+name = "vectorless-rag"
+version = "0.1.0"
+description = "BM25-powered RAG pipeline — no embeddings, no vector database"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3.0",
+    "langchain-community>=0.3.0",
+    "langchain-core>=0.3.0",
+    "langchain-text-splitters>=0.3.0",
+    "ollama>=0.4.0",
+    "pypdf>=4.0.0",
+    "pymupdf>=1.24.0",
+    "rank-bm25>=0.2.2",
+]

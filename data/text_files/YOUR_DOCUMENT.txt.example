@@ -1,0 +1,19 @@
+# PLACEHOLDER — Replace this file with your own content
+#
+# How to use:
+#   1. Rename this file to something descriptive (e.g. "product_manual.txt")
+#      and remove the ".example" extension, OR just delete it and drop
+#      your own .txt files here.
+#
+#   2. Alternatively, drop PDF files into data/pdf_files/
+#
+#   3. Delete the existing index to force re-indexing:
+#        rm -rf data/bm25_index/
+#
+#   4. Run:
+#        uv run python main.py
+#
+# Your document content goes below this line:
+# ---------------------------------------------------------------------------
+
+<PASTE YOUR DOCUMENT CONTENT HERE>
